@@ -3,8 +3,6 @@
 > Lightweight but enterprise-grade loyalty, rewards & Cash+Miles engine built with
 > **Spring Boot 3.2**, **GraphQL**, **Redis**, **Resilience4j**, and **Siebel CRM** integration.
 >
-> Designed to reflect real-world fintech/banking patterns used at companies like
-> Ally Financial, Fiserv, and Chase.
 
 ---
 
