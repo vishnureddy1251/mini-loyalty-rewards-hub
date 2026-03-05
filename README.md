@@ -29,26 +29,26 @@ architecture across every layer — from domain modeling to infrastructure resil
 ## 🏗️ Architecture
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                   GraphQL API Layer                      │
-│         Query / Mutation / Subscription Resolvers        │
+│                   GraphQL API Layer                     │
+│         Query / Mutation / Subscription Resolvers       │
 └──────────────────────────┬──────────────────────────────┘
                            │
 ┌──────────────────────────▼──────────────────────────────┐
-│               Application Service Layer                  │
-│   LoyaltyApplicationService · CashMilesCalculator        │
-│   RewardQueryService                                     │
+│               Application Service Layer                 │
+│   LoyaltyApplicationService · CashMilesCalculator       │
+│   RewardQueryService                                    │
 └──────────────────────────┬──────────────────────────────┘
                            │
 ┌──────────────────────────▼──────────────────────────────┐
-│                   Domain Layer (Pure Java)                │
-│   Member · LoyaltyAccount · Reward · Transaction         │
-│   MemberStatus · DomainValueObjects                      │
+│                   Domain Layer (Pure Java)              │
+│   Member · LoyaltyAccount · Reward · Transaction        │
+│   MemberStatus · DomainValueObjects                     │
 └──────────────────────────┬──────────────────────────────┘
                            │
 ┌──────────────────────────▼──────────────────────────────┐
-│               Infrastructure Layer                       │
-│   Redis Cache · Siebel CRM · WebSocket Pub/Sub           │
-│   JPA Repositories · Exception Handlers                  │
+│               Infrastructure Layer                      │
+│   Redis Cache · Siebel CRM · WebSocket Pub/Sub          │
+│   JPA Repositories · Exception Handlers                 │
 └─────────────────────────────────────────────────────────┘
 ```
 
