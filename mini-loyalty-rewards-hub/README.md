@@ -350,9 +350,7 @@ GraphQL Subscriptions use **Redis Pub/Sub** so balance updates work across all p
 
 ## 👤 Author
 
-**Vishnu** — Senior Java Backend Developer
-Specializing in Spring Boot microservices, payment processing, and fintech applications.
-Experience at Ally Financial · Fiserv
+**Vishnu** — Java Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
