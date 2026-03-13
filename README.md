@@ -7,7 +7,6 @@
 ---
 
 ## 📌 What This Project Demonstrates
-
 This is a **senior-level portfolio project** showcasing production-grade Java backend
 architecture across every layer — from domain modeling to infrastructure resilience.
 
