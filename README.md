@@ -347,7 +347,7 @@ GraphQL Subscriptions use **Redis Pub/Sub** so balance updates work across all p
 
 ## 👤 Author
 
-**Vishnu** — Java Backend Developer
+**Vishnu** — Java Backend Developer WIP...
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
